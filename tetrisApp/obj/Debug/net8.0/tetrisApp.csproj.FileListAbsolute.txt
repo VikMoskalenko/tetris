@@ -1,0 +1,15 @@
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\bin\Debug\net8.0\tetrisApp.exe
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\bin\Debug\net8.0\tetrisApp.deps.json
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\bin\Debug\net8.0\tetrisApp.runtimeconfig.json
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\bin\Debug\net8.0\tetrisApp.dll
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\bin\Debug\net8.0\tetrisApp.pdb
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.AssemblyInfoInputs.cache
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.AssemblyInfo.cs
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.sourcelink.json
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.dll
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\refint\tetrisApp.dll
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.pdb
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\tetrisApp.genruntimeconfig.cache
+C:\Users\vikto\Source\Repos\tetris\tetrisApp\obj\Debug\net8.0\ref\tetrisApp.dll
